@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteRule ^$ build/ [L]
+RewriteRule ((?s).*) build/$1 [L]

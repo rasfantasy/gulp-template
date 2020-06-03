@@ -1,4 +1,7 @@
 /.gulp-scss-cache
 /.sass-cache
-/build
+/build/*.html
+/build/css
+/build/js
+/build/images
 /node_modules
