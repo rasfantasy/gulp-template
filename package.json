@@ -1,0 +1,34 @@
+{
+  "name": "vodos",
+  "version": "1.0.0",
+  "description": "vodos front-end",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasfantasy/vodos.git"
+  },
+  "author": "Ras FANtasy (rassoft@bk.ru)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasfantasy/vodos/issues"
+  },
+  "homepage": "https://github.com/rasfantasy/vodos#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-scss": "^1.4.0",
+    "gulp-watch": "^5.0.1"
+  },
+  "dependencies": {
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-uglify": "^3.0.2",
+    "imagemin-pngquant": "^9.0.0",
+    "normalize.css": "^8.0.1"
+  }
+}
