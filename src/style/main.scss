@@ -1,9 +1,14 @@
-/*
-* Third Party
-*/ 
-@import "../../node_modules/normalize.css/normalize.css";
+/* core */
+@import 'core/reset';
+@import 'core/fonts';
+@import "core/variables";
+@import "core/mixins";
+@import "core/base";
 
-/*
-* Custom
-*/
-/*@import "partials/app";*/
+/* components */
+
+
+/* common */
+
+
+/* other blocks */ 
