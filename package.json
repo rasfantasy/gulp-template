@@ -22,7 +22,7 @@
     "gulp-watch": "^5.0.1"
   },
   "dependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^3.0.4",
     "del": "^5.1.0",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-cheerio": "^1.0.0",
